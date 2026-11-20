@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+!.env.example
+*.safetensors
+*.pt
+*.pth
+*.pkl
+*.sqlite3
+*.faiss
+models/
+weights/
+private_data/
+outputs/
